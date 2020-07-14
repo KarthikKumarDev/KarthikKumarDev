@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning GraphQL and Docker
 - 👯 I’m looking to collaborate on React, Xamarin
 - 🤔 I’m looking for help with exploring new horizons
-- 💬 Ask me about travelling
+- 💬 Ask me about JS, Azure, CI/CD
 - 📫 How to reach me: jkkr.1996@gmail.com
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=karthikkumar1996&show_icons=true)
