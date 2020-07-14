@@ -5,7 +5,7 @@
 <!--
 **karthikkumar1996/karthikkumar1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on myself
+- 🔭 I’m currently working on React
 - 🌱 I’m currently learning GraphQL and Docker
 - 👯 I’m looking to collaborate on React, Xamarin
 - 🤔 I’m looking for help with exploring new horizons
