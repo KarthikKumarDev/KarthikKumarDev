@@ -9,4 +9,4 @@
 - 💬 Ask me about JS, Azure, CI/CD
 - 📫 How to reach me: jkkr.1996@gmail.com
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=karthikkumar1996&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=KarthikKumarDev&show_icons=true)
