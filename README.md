@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on React, Xamarin
 - 🤔 I’m looking for help with exploring new horizons
 - 💬 Ask me about JS, Azure, CI/CD
-- 📫 How to reach me: jkkr.1996@gmail.com
+- 📫 How to reach me: jkkr.dev@gmail.com
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=KarthikKumarDev&show_icons=true)
