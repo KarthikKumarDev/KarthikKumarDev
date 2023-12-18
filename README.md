@@ -4,7 +4,7 @@
 -->
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning GraphQL and Docker
-- 👯 I’m looking to collaborate on React, Xamarin
+- 🤝🏻 I’m looking to collaborate on React, Xamarin
 - 🤔 I’m looking for help with exploring new horizons
 - 💬 Ask me about JS, Azure, CI/CD
 - 📫 How to reach me: jkkr.dev@gmail.com
